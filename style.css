@@ -1,0 +1,81 @@
+body{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-family: 'Roboto', sans-serif;
+    background-image: url(images/back.jpg);
+}
+h1{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 45px;
+}
+h2{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 35px;
+}
+section{
+    display: flex;
+}
+.top-div{
+    width: 50%;
+}
+.boierpic{
+    width: 80%;
+}
+#pink{
+    color: pink;
+}
+#section-two{
+    margin-top: 180px;
+}
+span{
+    color: cornflowerblue;
+}
+.pdf-link{
+    width: 80%;
+}
+a{
+    text-decoration: none;
+    padding: 130px 90px;
+}
+#himu{
+    background-image: url(images/himuremande.jpg);
+}
+#slammed{
+    background-image: url(images/slammed.jpg);
+}
+#sapiens{
+    background-image: url(images/sapiens.jpg);
+}
+#the-odyssey{
+    background-image: url(images/the-odyssey.jpg);
+}
+#section-three{
+    margin-top: 300px;
+}
+#tuntuni-chhotachchu{
+    background-image: url(images/tuntuni.jpg);
+}
+#opekkha{
+    background-image: url(images/opekkha.jpg);
+}
+#dork{
+    background-image: url(images/dork.jpg);
+}
+#amagicplace{
+    background-image: url(images/amagicplace.jpg.jfif);
+}
+#section-four{
+    margin-top: 300px;
+}
+#the100{
+    background-image: url(images/the100.jpg);
+}
+#believeitornot{
+    background-image: url(images/believeitornot.jpg);
+}
+#sweet{
+    background-image: url(images/sweet.jfif);
+}
+#tom{
+    background-image: url(images/tomnjerry.jpg);
+}
