@@ -82,3 +82,8 @@ a{
 #tom{
     background-image: url(images/tomnjerry.jpg);
 }
+footer{
+    padding-top: 200px;
+    padding-bottom: 10px;
+    text-align: center;
+}
